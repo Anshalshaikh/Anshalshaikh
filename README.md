@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Anshalshaikh
-- 👀 I’m interested in cloud computing, AI, ML etc..
-- 🌱 I’m currently AWS associate certificate course ...
-- 💞️ I’m looking to collaborate on Any project related to cloud computing...
-- 📫 How to reach me is connect me on linkedin...
+# Welcome to My Cloud Engineering Projects 👋
 
-<!---
+## About Me
+
+Hi! I'm a **Cloud Engineer** passionate about designing, deploying, and maintaining scalable and secure cloud infrastructure. I specialize in **AWS** and have experience with **Azure** and **GCP** as well. My work revolves around automation, optimization, and security in cloud environments.
+
+## Skills & Expertise
+
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Infrastructure as Code (IaC)**: CloudFormation, Terraform, Ansible
+- **DevOps Tools**: CI/CD Pipelines, Docker, Kubernetes, Jenkins
+- **Networking**: VPC, Load Balancers, Firewalls, VPN
+- **Security**: IAM, Security Groups, SCPs, Encryption
+- **Monitoring & Logging**: CloudWatch, Prometheus, ELK Stack
+- **Scripting**: Python, Bash, PowerShell
+- **Databases**: RDS, DynamoDB, MongoDB
+
+## Current Projects
+
+- **Cloud Automation**: Automating infrastructure provisioning using CloudFormation and Terraform.
+- **Security Monitoring**: Implementing security checks and logging across cloud accounts.
+- **Cost Optimization**: Working on tools to improve cost efficiency in multi-account environments.
+
+## How I Work
+
+I strongly believe in **automation** and **best practices**. I focus on:
+- Building highly **available** and **scalable** systems
+- Implementing **security** from the ground up
+- Optimizing for **cost** and **performance**
+
+## Contact
+
+Feel free to reach out if you're interested in collaborating or have any questions:
+
+- **Email**: anshalshaikh123.1@gmail.com
+
+Thanks for stopping by! Happy coding! 🚀
+
+--
 Anshalshaikh/Anshalshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
