@@ -35,8 +35,3 @@ Feel free to reach out if you're interested in collaborating or have any questio
 - **Email**: anshalshaikh123.1@gmail.com
 
 Thanks for stopping by! Happy coding! 🚀
-
---
-Anshalshaikh/Anshalshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
